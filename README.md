@@ -12,7 +12,9 @@ A program that simulates when query is made and its interaction with the bandwid
 
 - <b>Windows 10</b>
 
-<h2> Design Image (<i> created using microsoft paint<i>): </h2>
+<h2> Design Image (<i>created using microsoft paint<i>): </h2>
+
+<img src="https://i.imgur.com/fURv4K7.png" height="60%" width="60%" alt="Winner image"/>
 
 
 
