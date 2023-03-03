@@ -1,0 +1,1032 @@
+How many queries would you like each thread to make? (Input 0 to stop): 
+10
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 28.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 28.
+It reads 1 at the destination 28 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 92.
+Destination bandwidth query is performed.
+It took a time of 8 for a ping. This value was added to the bandwidth cache at 92.
+It reads 8 at the destination 92 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 39.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 39.
+It reads 10 at the destination 39 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 13.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 13.
+It reads 2 at the destination 13 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 70.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 70.
+It reads 10 at the destination 70 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 52.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 52.
+It reads 1 at the destination 52 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 83.
+Destination bandwidth query is performed.
+It took a time of 3 for a ping. This value was added to the bandwidth cache at 83.
+It reads 3 at the destination 83 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 89.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 89.
+It reads 2 at the destination 89 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 61.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 61.
+It reads 6 at the destination 61 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 48.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 48.
+It reads 1 at the destination 48 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 85.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 85.
+It reads 4 at the destination 85 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 23.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 23.
+It reads 6 at the destination 23 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 83.
+It reads 3 at the destination 83 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 48.
+It reads 1 at the destination 48 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 26.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 26.
+It reads 1 at the destination 26 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 78.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 78.
+It reads 1 at the destination 78 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 31.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 31.
+It reads 1 at the destination 31 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 28.
+It reads 1 at the destination 28 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 72.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 72.
+It reads 9 at the destination 72 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 77.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 77.
+It reads 1 at the destination 77 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 30.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 30.
+It reads 4 at the destination 30 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 3.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 3.
+It reads 5 at the destination 3 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 43.
+Destination bandwidth query is performed.
+It took a time of 8 for a ping. This value was added to the bandwidth cache at 43.
+It reads 8 at the destination 43 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 15.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 15.
+It reads 4 at the destination 15 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 57.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 57.
+It reads 5 at the destination 57 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 93.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 93.
+It reads 5 at the destination 93 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 35.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 35.
+It reads 10 at the destination 35 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 33.
+Destination bandwidth query is performed.
+It took a time of 7 for a ping. This value was added to the bandwidth cache at 33.
+It reads 7 at the destination 33 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 77.
+It reads 1 at the destination 77 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 6.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 6.
+It reads 9 at the destination 6 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 10.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 10.
+It reads 4 at the destination 10 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 22.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 22.
+It reads 5 at the destination 22 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 71.
+Destination bandwidth query is performed.
+It took a time of 7 for a ping. This value was added to the bandwidth cache at 71.
+It reads 7 at the destination 71 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 58.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 58.
+It reads 9 at the destination 58 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 95.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 95.
+It reads 1 at the destination 95 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 74.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 74.
+It reads 2 at the destination 74 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 100.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 100.
+It reads 6 at the destination 100 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 56.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 56.
+It reads 10 at the destination 56 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 5.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 5.
+It reads 6 at the destination 5 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 13.
+It reads 2 at the destination 13 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 56.
+It reads 10 at the destination 56 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 86.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 86.
+It reads 5 at the destination 86 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 83.
+It reads 3 at the destination 83 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 49.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 49.
+It reads 1 at the destination 49 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 35.
+It reads 10 at the destination 35 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 98.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 98.
+It reads 10 at the destination 98 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 43.
+It reads 8 at the destination 43 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 21.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 21.
+It reads 9 at the destination 21 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 31.
+It reads 1 at the destination 31 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 56.
+It reads 10 at the destination 56 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 79.
+Destination bandwidth query is performed.
+It took a time of 8 for a ping. This value was added to the bandwidth cache at 79.
+It reads 8 at the destination 79 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 79.
+It reads 8 at the destination 79 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 95.
+It reads 1 at the destination 95 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 24.
+Destination bandwidth query is performed.
+It took a time of 3 for a ping. This value was added to the bandwidth cache at 24.
+It reads 3 at the destination 24 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 43.
+It reads 8 at the destination 43 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 21.
+It reads 9 at the destination 21 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 45.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 45.
+It reads 9 at the destination 45 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 91.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 91.
+It reads 4 at the destination 91 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 41.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 41.
+It reads 6 at the destination 41 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 97.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 97.
+It reads 4 at the destination 97 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 100.
+It reads 6 at the destination 100 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 78.
+It reads 1 at the destination 78 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 57.
+It reads 5 at the destination 57 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 37.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 37.
+It reads 2 at the destination 37 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 39.
+It reads 10 at the destination 39 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 64.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 64.
+It reads 2 at the destination 64 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 64.
+It reads 2 at the destination 64 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 1.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 1.
+It reads 6 at the destination 1 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 58.
+It reads 9 at the destination 58 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 55.
+Destination bandwidth query is performed.
+It took a time of 7 for a ping. This value was added to the bandwidth cache at 55.
+It reads 7 at the destination 55 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 81.
+Destination bandwidth query is performed.
+It took a time of 3 for a ping. This value was added to the bandwidth cache at 81.
+It reads 3 at the destination 81 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 38.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 38.
+It reads 5 at the destination 38 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 1.
+It reads 6 at the destination 1 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 2.
+Destination bandwidth query is performed.
+It took a time of 7 for a ping. This value was added to the bandwidth cache at 2.
+It reads 7 at the destination 2 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 58.
+It reads 9 at the destination 58 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 34.
+Destination bandwidth query is performed.
+It took a time of 2 for a ping. This value was added to the bandwidth cache at 34.
+It reads 2 at the destination 34 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 76.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 76.
+It reads 5 at the destination 76 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 53.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 53.
+It reads 9 at the destination 53 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 8.
+Destination bandwidth query is performed.
+It took a time of 8 for a ping. This value was added to the bandwidth cache at 8.
+It reads 8 at the destination 8 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 50.
+Destination bandwidth query is performed.
+It took a time of 3 for a ping. This value was added to the bandwidth cache at 50.
+It reads 3 at the destination 50 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 82.
+Destination bandwidth query is performed.
+It took a time of 10 for a ping. This value was added to the bandwidth cache at 82.
+It reads 10 at the destination 82 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 57.
+It reads 5 at the destination 57 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 23.
+It reads 6 at the destination 23 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 46.
+Destination bandwidth query is performed.
+It took a time of 6 for a ping. This value was added to the bandwidth cache at 46.
+It reads 6 at the destination 46 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 76.
+It reads 5 at the destination 76 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 71.
+It reads 7 at the destination 71 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Ten
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Ten will query the destination 50.
+It reads 3 at the destination 50 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 43.
+It reads 8 at the destination 43 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 3.
+It reads 5 at the destination 3 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 66.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 66.
+It reads 4 at the destination 66 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 59.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 59.
+It reads 4 at the destination 59 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Seven
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Seven will query the destination 63.
+Destination bandwidth query is performed.
+It took a time of 1 for a ping. This value was added to the bandwidth cache at 63.
+It reads 1 at the destination 63 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Four
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Four will query the destination 27.
+Destination bandwidth query is performed.
+It took a time of 4 for a ping. This value was added to the bandwidth cache at 27.
+It reads 4 at the destination 27 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Six
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Six will query the destination 93.
+It reads 5 at the destination 93 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Nine
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Nine will query the destination 56.
+It reads 10 at the destination 56 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Two
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Two will query the destination 33.
+It reads 7 at the destination 33 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Five
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Five will query the destination 29.
+Destination bandwidth query is performed.
+It took a time of 5 for a ping. This value was added to the bandwidth cache at 29.
+It reads 5 at the destination 29 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Three
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Three will query the destination 37.
+It reads 2 at the destination 37 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: Eight
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread Eight will query the destination 13.
+It reads 2 at the destination 13 and returns back to its decision process.
+
+
+
+*************************************************
+Decision Thread: One
+*************************************************
+New decision query in the bandwidth cache:
+Decision thread One will query the destination 90.
+Destination bandwidth query is performed.
+It took a time of 9 for a ping. This value was added to the bandwidth cache at 90.
+It reads 9 at the destination 90 and returns back to its decision process.
